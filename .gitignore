@@ -1,0 +1,8 @@
+# 忽略编译生成的可执行文件
+*.exe
+# 目标文件
+*.o
+# Dev-C++工程相关
+*.dev
+*.layout
+Makefile.win
